@@ -3,7 +3,7 @@ package com.foriton.leetcode;
 
 import java.util.Arrays;
 
-public class Number0010SortSentence {
+public class Number9010SortSentence {
     public static void run() {
         System.out.println(sortSentence("Myself2 Me1 I4 and3"));
     }

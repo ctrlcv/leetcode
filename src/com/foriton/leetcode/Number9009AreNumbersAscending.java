@@ -1,6 +1,6 @@
 package com.foriton.leetcode;
 
-public class Number0009AreNumbersAscending {
+public class Number9009AreNumbersAscending {
     public static void run() {
         System.out.println(areNumbersAscending("4 5 11 26"));
     }
